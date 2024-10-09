@@ -46,7 +46,7 @@ const Scene = () => {
     },
   });
 
-  useHelper(directionalLightRef, DirectionalLightHelper, 0.5, 'white');
+  useHelper(directionalLightRef, DirectionalLightHelper, 0.8, 'red');
 
   return (
     <>
